@@ -1,0 +1,11 @@
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+terraform.tfstate.backup
+crash.log
+terraform.tfplan
+
+node_modules/
+.idea/
+.vscode/
