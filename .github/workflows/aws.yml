@@ -87,4 +87,4 @@ jobs:
             --cluster medusa-cluster \
             --services medusa-service \
             --region us-east-1
-          echo "ECS service is more stable"
+          echo "ECS service is stable"
